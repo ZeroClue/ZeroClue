@@ -19,8 +19,6 @@ Currently building:
 **Tools:** WebRTC · n8n · MCP · PostgreSQL · RabbitMQ · ComfyUI  
 **Security:** CEH · PCI-DSS · Penetration testing
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroClue&show_icons=true&theme=dark&hide_border=true)
-
 ## Writing
 
 [zeroclue.dev](https://zeroclue.dev)
