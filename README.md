@@ -27,3 +27,4 @@ Currently building:
 
 [LinkedIn](https://linkedin.com/in/marxer-armin)  
 Centurion, South Africa · UTC+2 (EU hours) · Available for remote
+<img src="[https://go.kern.web.za/p/XBtIXS8DI](https://go.kern.web.za/p/fUUitQtd6)" alt="" />
